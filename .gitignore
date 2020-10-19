@@ -1,0 +1,2 @@
+# a list of file or folder that you don't want git to track
+secrets.txt
